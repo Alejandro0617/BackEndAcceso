@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "fi1dRCpuGwRtvhHgl0olfMWHkPWuJB6cA/Gfddt4y/o=",
+  "Source": "ProyectoBackendCsharp",
+  "BasePath": "_content/ProyectoBackendCsharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProyectoBackendCsharp\\wwwroot",
+      "Source": "ProyectoBackendCsharp",
+      "ContentRoot": "C:\\Users\\Acer\\Downloads\\ProyectoBackendCsharp-ControlAcceso\\ProyectoBackendCsharpv5\\wwwroot\\",
+      "BasePath": "_content/ProyectoBackendCsharp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
