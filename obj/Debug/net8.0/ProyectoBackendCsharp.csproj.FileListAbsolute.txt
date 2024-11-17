@@ -1038,3 +1038,4 @@ C:\Users\Acer\Downloads\ProyectoBackendCsharp-ControlAcceso\ProyectoBackendCshar
 C:\Users\Acer\Downloads\ProyectoBackendCsharp-ControlAcceso\ProyectoBackendCsharpv5\obj\Debug\net8.0\ProyectoBackendCsharp.pdb
 C:\Users\Acer\Downloads\ProyectoBackendCsharp-ControlAcceso\ProyectoBackendCsharpv5\obj\Debug\net8.0\ProyectoBackendCsharp.genruntimeconfig.cache
 C:\Users\Acer\Downloads\ProyectoBackendCsharp-ControlAcceso\ProyectoBackendCsharpv5\obj\Debug\net8.0\ref\ProyectoBackendCsharp.dll
+C:\Users\Acer\Downloads\ProyectoBackendCsharp-ControlAcceso\ProyectoBackendCsharpv5\obj\Debug\net8.0\ProyectoBackendCsharp.sourcelink.json
