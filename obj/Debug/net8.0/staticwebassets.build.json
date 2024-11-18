@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fi1dRCpuGwRtvhHgl0olfMWHkPWuJB6cA/Gfddt4y/o=",
+  "Hash": "S9xKgZUV1uSNv+fAZValHz8t9Pd51kJqnWksMliP6so=",
   "Source": "ProyectoBackendCsharp",
   "BasePath": "_content/ProyectoBackendCsharp",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "ProyectoBackendCsharp\\wwwroot",
       "Source": "ProyectoBackendCsharp",
-      "ContentRoot": "C:\\Users\\Acer\\Downloads\\ProyectoBackendCsharp-ControlAcceso\\ProyectoBackendCsharpv5\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jose_\\OneDrive\\Documentos\\Proyectos VS Code\\GITHUB\\BackEndAcceso\\wwwroot\\",
       "BasePath": "_content/ProyectoBackendCsharp",
       "Pattern": "**"
     }
