@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "AWSSDK.Core/3.7.400.47": {
+      "AWSSDK.Core/3.7.400.53": {
         "type": "package",
         "compile": {
           "lib/net8.0/AWSSDK.Core.dll": {
@@ -15,10 +15,10 @@
           }
         }
       },
-      "AWSSDK.SecurityToken/3.7.400.47": {
+      "AWSSDK.SecurityToken/3.7.401.2": {
         "type": "package",
         "dependencies": {
-          "AWSSDK.Core": "[3.7.400.47, 4.0.0)"
+          "AWSSDK.Core": "[3.7.400.53, 4.0.0)"
         },
         "compile": {
           "lib/net8.0/AWSSDK.SecurityToken.dll": {
@@ -1396,15 +1396,15 @@
     }
   },
   "libraries": {
-    "AWSSDK.Core/3.7.400.47": {
-      "sha512": "1Twrreb+XofwuK5RfFbhPmiXmzYGmyZSQLPnHErHPSWKjLjOf5hLNOYvSJFa4icK6bWjVSHQspLK2OmBukU6oQ==",
+    "AWSSDK.Core/3.7.400.53": {
+      "sha512": "OwJTHfD3tXKLPiB/UUr6SSigFycQm6JNTReh5j2kYJP0CgcZmV+qeePEpIptxCVbq28esef/8hdzezkzNhN+fA==",
       "type": "package",
-      "path": "awssdk.core/3.7.400.47",
+      "path": "awssdk.core/3.7.400.53",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "awssdk.core.3.7.400.47.nupkg.sha512",
+        "awssdk.core.3.7.400.53.nupkg.sha512",
         "awssdk.core.nuspec",
         "images/AWSLogo.png",
         "lib/net35/AWSSDK.Core.dll",
@@ -1425,17 +1425,17 @@
         "tools/account-management.ps1"
       ]
     },
-    "AWSSDK.SecurityToken/3.7.400.47": {
-      "sha512": "rOh9GEtTxVqp77WZhMuaAiSNDmLrW/SrLNgNqkdaNJDodyDutIGj5dQ2NUNNc/c7uf++ZmGROhanVoae+Et73w==",
+    "AWSSDK.SecurityToken/3.7.401.2": {
+      "sha512": "hV7B8E69iRXUOPHWiO7JuiNcD8s3sqaNXorpGJuBx7NV1Q7CTO4D6b1eOx0W9TFpOn1Aou1Fjm/i9vFeBCQdzQ==",
       "type": "package",
-      "path": "awssdk.securitytoken/3.7.400.47",
+      "path": "awssdk.securitytoken/3.7.401.2",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "analyzers/dotnet/cs/AWSSDK.SecurityToken.CodeAnalysis.dll",
         "analyzers/dotnet/cs/SharedAnalysisCode.dll",
-        "awssdk.securitytoken.3.7.400.47.nupkg.sha512",
+        "awssdk.securitytoken.3.7.401.2.nupkg.sha512",
         "awssdk.securitytoken.nuspec",
         "images/AWSLogo.png",
         "lib/net35/AWSSDK.SecurityToken.dll",
@@ -4047,7 +4047,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "AWSSDK.SecurityToken >= 3.7.400.47",
+      "AWSSDK.SecurityToken >= 3.7.401.2",
       "BCrypt.Net-Next >= 4.0.3",
       "Microsoft.Data.SqlClient >= 5.2.0",
       "Microsoft.Extensions.Configuration >= 8.0.0",
@@ -4101,7 +4101,7 @@
         "dependencies": {
           "AWSSDK.SecurityToken": {
             "target": "Package",
-            "version": "[3.7.400.47, )"
+            "version": "[3.7.401.2, )"
           },
           "BCrypt.Net-Next": {
             "target": "Package",

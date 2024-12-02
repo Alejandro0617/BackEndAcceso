@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "AVzqCv8HrhE=",
+  "dgSpecHash": "+410u4uMS68=",
   "success": true,
   "projectFilePath": "C:\\Users\\Acer\\Downloads\\ProyectoBackendCsharp-ControlAcceso\\ProyectoBackendCsharpv5\\ProyectoBackendCsharp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Acer\\.nuget\\packages\\awssdk.core\\3.7.400.47\\awssdk.core.3.7.400.47.nupkg.sha512",
-    "C:\\Users\\Acer\\.nuget\\packages\\awssdk.securitytoken\\3.7.400.47\\awssdk.securitytoken.3.7.400.47.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\awssdk.core\\3.7.400.53\\awssdk.core.3.7.400.53.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\awssdk.securitytoken\\3.7.401.2\\awssdk.securitytoken.3.7.401.2.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",

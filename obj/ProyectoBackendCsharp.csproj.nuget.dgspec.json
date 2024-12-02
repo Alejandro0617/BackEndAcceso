@@ -45,7 +45,7 @@
           "dependencies": {
             "AWSSDK.SecurityToken": {
               "target": "Package",
-              "version": "[3.7.400.47, )"
+              "version": "[3.7.401.2, )"
             },
             "BCrypt.Net-Next": {
               "target": "Package",
